@@ -1,4 +1,4 @@
-const CACHE_NAME = "buget-familie-v1";
+const CACHE_NAME = "buget-familie-v2";
 const ASSETS = [
   "./",
   "./index.html",
